@@ -63,5 +63,5 @@ This policy may be updated as NetPhone changes. The latest version should be pub
 
 For privacy questions or data deletion requests, contact:
 
-**NetPhone Developer:** mail:nowsearch.team@gmail.com
+**NetPhone Developer:** nowsearch.team@gmail.com
 
